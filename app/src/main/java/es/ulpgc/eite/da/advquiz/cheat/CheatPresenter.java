@@ -75,6 +75,7 @@ public class CheatPresenter implements CheatContract.Presenter {
   public void onWarningButtonClicked(int option) {
     Log.e(TAG, "onWarningButtonClicked");
 
+    //option=1 => yes, option=0 => no
     // TODO: include code if necessary
   }
 
